@@ -18,8 +18,8 @@
 ### :woman_technologist: About Me :
 
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-- 🔭 I’m currently working on Movie App(KenyaFlix).
-- 🌱 I’m currently learning Javascript, React.js and Ruby on Rails.
+- 🔭 I’m currently working as a Junior Web Developer using WordPress, Squarespace, and Shopify to build sites.
+- 🌱 I also code using JavaScript, PHP,  React.js, and Ruby on Rails.
 - 👯 I’m looking to collaborate on any projects that come, I find that I like dealing with databases and rails and i also like coding for javascript.
 - 📫 How to reach me: graceaaloo@gmail.com
 
